@@ -32,7 +32,7 @@ name: "@layer8"
 
 # Tagline section text
 tagline: >-
-    An iOS, web, and automation developer from Taiwan 🇹🇼 who also loves sharing, traveling, and writing.
+    We are the cybersecurity club of Cal State Northridge, Layer 8. We focus on educating our members via hands on learning. 
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -51,9 +51,9 @@ links:
       target: "_blank"
   - link:
       icon: "fa-brands fa-medium"
-      text: "main text"
+      text: "Matasync is CSUN's official platform for communicating with clubs."
       url: "https://csun.campuslabs.com/engage/organization/layer-8"
-      alt: "Alt text"
+      alt: "Matasycnc link"
       title: "Matasync"
 
 # List of social media links

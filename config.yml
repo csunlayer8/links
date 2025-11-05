@@ -32,7 +32,7 @@ name: "@layer8"
 
 # Tagline section text
 tagline: >-
-    We are the cybersecurity club of Cal State Northridge, Layer 8. We focus on educating our members via hands on learning. We meet every Monday in JD1600A from 7 PM to 8:30 PM, and every Saturday in JD1602 from 12 PM to 5 PM. 
+    We are the Cybersecurity Club of Cal State Northridge, Layer 8. We focus on educating our members via hands on learning. We meet every Monday in JD1600A from 7 PM to 8:30 PM, and every Saturday in JD1602 from 12 PM to 5 PM. 
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -47,21 +47,21 @@ links:
       text: "Discord"
       url: "https://discord.gg/fu2zvq6"
       alt: "Most of our activity and communication happens in our Discord server"
-      title: "Discord Link" 
+      title: "Most of our activity and communication happens in our Discord server" 
       target: "_blank"
   - link:
       icon: "fa-classic fa-m"
       text: "Matasync"
       url: "https://csun.campuslabs.com/engage/organization/layer-8"
       alt: "Matasync is CSUN's official platform for communicating with clubs."
-      title: "Matasync"
+      title: "Matasync is CSUN's official platform for communicating with clubs."
       target: "_blank"
   - link:
       icon: "fa-classic fa-globe"
       text: "Website"
       url: "https://csunlayer8.com"
-      alt: "Matasync is CSUN's official platform for communicating with clubs."
-      title: "Is this even used?"
+      alt: "Website link"
+      title: "Our website"
       target: "_blank"
 
 
@@ -98,4 +98,4 @@ footer: >
 # Footer copyright message
 # Linkyee is a 100% free, open-source project—feel free to modify the copyright message as you like. :)
 copyright: >
-  © 2025  <a href="https://csunlayer8.com" target="_blank">ZhgChgLi</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>
+  © 2025  <a href="https://csunlayer8.com" target="_blank">Layer8</a>. Powered by <a href="https://github.com/ZhgChgLi/linkyee" target="_blank">linkyee</a>

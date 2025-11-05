@@ -32,7 +32,7 @@ name: "@layer8"
 
 # Tagline section text
 tagline: >-
-    We are the cybersecurity club of Cal State Northridge, Layer 8. We focus on educating our members via hands on learning. 
+    We are the cybersecurity club of Cal State Northridge, Layer 8. We focus on educating our members via hands on learning. We meet every Monday in JD1600A from 7 PM to 8:30 PM, and every Saturday in JD1602 from 12 PM to 5 PM. 
 
 # List of links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -50,11 +50,21 @@ links:
       title: "Discord Link" 
       target: "_blank"
   - link:
-      icon: "fa-brands fa-medium"
+      icon: "fa-classic fa-m"
       text: "Matasync is CSUN's official platform for communicating with clubs."
       url: "https://csun.campuslabs.com/engage/organization/layer-8"
       alt: "Matasycnc link"
       title: "Matasync"
+      target: "_blank"
+  - link:
+      icon: "fa-classic fa-globe"
+      text: "Check out our website for information about us and our events!"
+      url: "https://csunlayer8.com"
+      alt: "Website"
+      title: "Website"
+      target: "_blank"
+
+
 
 # List of social media links
 # icon: Use Font Awesome icons (https://fontawesome.com/search?o=r&m=free)
@@ -74,6 +84,11 @@ socials:
       url: "https://github.com/csunlayer8"
       title: "Github"
       alt: "GitHub (alt)"
+      target: "_blank"
+  - social:
+      icon: "fa-classic fa-globe"
+      url: "https://csunlayer8.com"
+      alt: "Website"
       target: "_blank"
 
 # Footer text

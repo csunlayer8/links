@@ -44,24 +44,24 @@ tagline: >-
 links:
   - link:
       icon: "fa-brands fa-discord"
-      text: "Discord Link"
+      text: "Discord"
       url: "https://discord.gg/fu2zvq6"
-      alt: "Discord Link"
+      alt: "Most of our activity and communication happens in our Discord server"
       title: "Discord Link" 
       target: "_blank"
   - link:
       icon: "fa-classic fa-m"
-      text: "Matasync is CSUN's official platform for communicating with clubs."
+      text: "Matasync"
       url: "https://csun.campuslabs.com/engage/organization/layer-8"
-      alt: "Matasycnc link"
+      alt: "Matasync is CSUN's official platform for communicating with clubs."
       title: "Matasync"
       target: "_blank"
   - link:
       icon: "fa-classic fa-globe"
-      text: "Check out our website for information about us and our events!"
+      text: "Website"
       url: "https://csunlayer8.com"
-      alt: "Website"
-      title: "Website"
+      alt: "Matasync is CSUN's official platform for communicating with clubs."
+      title: "Is this even used?"
       target: "_blank"
 
 

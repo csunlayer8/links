@@ -47,14 +47,14 @@ links:
       text: "Discord"
       url: "https://discord.gg/fu2zvq6"
       alt: "Most of our activity and communication happens in our Discord server"
-      title: "Most of our activity and communication happens in our Discord server" 
+      title: "Most of our activity and communication happens in our Discord server"
       target: "_blank"
   - link:
-      icon: "fa-classic fa-m"
-      text: "Matasync"
-      url: "https://csun.campuslabs.com/engage/organization/layer-8"
-      alt: "Matasync is CSUN's official platform for communicating with clubs."
-      title: "Matasync is CSUN's official platform for communicating with clubs."
+      icon: "fa-brands fa-instagram"
+      text: "Instagram"
+      url: "https://www.instagram.com/csun_layer8/"
+      alt: "Instagram, where we post announcements and events"
+      title: "Instagram, where we post announcements and events"
       target: "_blank"
   - link:
       icon: "fa-classic fa-globe"
@@ -73,12 +73,6 @@ links:
 # alt: Alternative text for accessibility
 # target: _blank opens in a new tab, _self opens in the same frame
 socials:
-  - social:
-      icon: "fa-brands fa-instagram"
-      url: "https://www.instagram.com/csun_layer8/"
-      title: "Instagram"
-      alt: "Instagram (alt)"
-      target: "_blank"
   - social:
       icon: "fa-brands fa-github"
       url: "https://github.com/csunlayer8"
